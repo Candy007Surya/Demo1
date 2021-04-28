@@ -9,6 +9,10 @@ public class democlass {
       System.Out.Println("mom");
       System.Out.Println("eer");
       System.Out.Println("moefefm");
+      System.Out.Println("2");
+      System.Out.Println("4");System.Out.Println("3");
+      System.Out.Println("5");
+
 
 
 }
