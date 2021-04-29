@@ -8,6 +8,12 @@ public class democlass {
      System.Out.Println("dad");
       System.Out.Println("mom");
 
+
+
+       System.Out.Println("naveen");
+        System.Out.Println("surya");
+
+
       System.Out.Println("eer");
       System.Out.Println("moefefm");
       System.Out.Println("2");
@@ -15,8 +21,26 @@ public class democlass {
       System.Out.Println("5");
 
 
+
        System.Out.Println("naveen");
         System.Out.Println("surya");
+
+      System.Out.Println("kkdev");
+
+      System.Out.Println("kkdev");
+
+      System.Out.Println("kkdev");
+
+      System.Out.Println("kkdev");
+
+      System.Out.Println("kkdev");
+
+ System.Out.Println("surya");
+  System.Out.Println("surya");
+   System.Out.Println("surya");
+    System.Out.Println("surya"); System.Out.Println("surya");
+
+
 
 
 
