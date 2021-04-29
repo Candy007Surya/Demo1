@@ -40,7 +40,7 @@ public class democlass {
    System.Out.Println("surya");
     System.Out.Println("surya"); System.Out.Println("surya");
 
-
+System.Out.Println("candy"); System.Out.Println("candy2");
 
 
 
